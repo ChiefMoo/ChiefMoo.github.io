@@ -1,4 +1,4 @@
-hello I'm Xi Duan
+Hello I'm Xi Duan
 
 I graduated from Faculty of Information Science and Engineering, Ocean University of China with a bachelor’s degree (Computer Science and Technology) and from Faculty of Information Science and Engineering, Ocean University of China with a master’s degree (Computer Technology), advised by Dr. Xinjie Wang, and I am currently pursuing my PhD. from Shandong University, advised by Prof. Qiong Zeng.
 
